@@ -226,7 +226,7 @@ p {
 
 /*Header Section*/
 #header {
-    background-image: url('/assets/img/header.jpg');
+    background-image: url('img/header.jpg');
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -325,7 +325,7 @@ p {
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url('/assets/img/skillsbg.jpg');
+    background-image: url('img/skillsbg.jpg');
     background-size: cover;
     margin: 10px 5%;
     position: relative;
