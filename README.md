@@ -4,4 +4,4 @@
 3. JS
 
 # Example
-![](https://cdn.discordapp.com/attachments/925063485556150292/925332261941964860/unknown.png)
+![](https://cdn.discordapp.com/attachments/628921476552065053/941641049359663154/unknown.png)
